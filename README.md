@@ -1,1 +1,1 @@
-# typescript-react-calculator-app
+# Typescript React-calculator-app
